@@ -1,0 +1,21 @@
+#p1{
+    font-style: italic;
+    color: blueviolet;
+    text-transform: capitalize;
+}
+#p2{
+    text-transform: capitalize;
+    color: aquamarine;
+    text-decoration: underline;
+}
+#p3{
+    text-shadow: 2px 2px 2px greenyellow;
+}
+#p4{
+    box-shadow: 1px 1px 1px red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#p5{
+    font-size: 20px;
+    transform: rotatex(180deg);
+}
